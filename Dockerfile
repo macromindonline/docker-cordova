@@ -1,4 +1,4 @@
-FROM macromind/android-nodejs
+FROM macromind/docker-android-nodejs
 
 MAINTAINER MACROMIND Online <idc@macromind.online>
 
